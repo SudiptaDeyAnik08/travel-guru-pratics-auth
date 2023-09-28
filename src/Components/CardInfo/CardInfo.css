@@ -1,0 +1,27 @@
+    .cardInfo{
+        /* height: 250px; */
+        width: 250px;
+       
+        /* background-color: red; */
+        opacity: 0.9;
+        margin: 20px;
+    }
+
+    .cardInfo img{
+        height: 100%;
+        width: 100%;
+    }
+
+    .cardInfo h1{
+        position: relative;
+        top:-60px;
+        color: white;
+        left:10px
+    }
+
+    .cardInfo img:hover{
+        border: 1px solid orange;
+        border-radius: 12px;
+        
+    }
+   

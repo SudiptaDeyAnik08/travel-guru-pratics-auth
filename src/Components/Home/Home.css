@@ -1,0 +1,24 @@
+.cardInfo{
+    height: 300px;
+}
+.bookbutton{
+    border-radius: 5px;
+    color: black;
+    background-color:white ;
+    border: 1px solid orange;
+}
+
+.bookbutton:hover{
+    background-color: orange;
+    color:white;
+}
+
+.informationCard{
+    height: 400px;
+    width: 300px;
+    text-align: justify;
+}
+
+.cardParent{
+    margin-top: 10%;
+}

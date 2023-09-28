@@ -1,0 +1,29 @@
+.navigationBackground{
+    
+    background-color: white;
+
+}
+
+.image_logo{
+    height: 60px;
+
+}
+
+.loginButton{
+    padding: 7px 30px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid orange;
+}
+
+.loginButton:hover{
+    background-color: orange;
+    border: 1px solid white;
+    color: white;
+}
+
+.linkings{
+    text-decoration: none;
+    font-size: medium;
+    
+}
